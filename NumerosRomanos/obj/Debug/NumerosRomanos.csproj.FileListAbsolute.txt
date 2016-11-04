@@ -1,1 +1,6 @@
 D:\Proyectos\Personal\NumerosRomanos\NumerosRomanos\bin\Debug\NumerosRomanos.exe.config
+D:\Proyectos\Personal\NumerosRomanos\NumerosRomanos\bin\Debug\NumerosRomanos.exe
+D:\Proyectos\Personal\NumerosRomanos\NumerosRomanos\bin\Debug\NumerosRomanos.pdb
+D:\Proyectos\Personal\NumerosRomanos\NumerosRomanos\obj\Debug\NumerosRomanos.csprojResolveAssemblyReference.cache
+D:\Proyectos\Personal\NumerosRomanos\NumerosRomanos\obj\Debug\NumerosRomanos.exe
+D:\Proyectos\Personal\NumerosRomanos\NumerosRomanos\obj\Debug\NumerosRomanos.pdb
